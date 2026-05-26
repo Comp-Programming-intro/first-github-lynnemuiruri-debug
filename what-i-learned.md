@@ -16,7 +16,7 @@
 - Exploring repositories and learning from the GitHub community.
 
 ## 🎨 My Favorite Hobby
-When I’m into coding, I enjoy baking and exploring new places.  
+When I’m not coding, I enjoy baking and exploring new places.  
 It helps me think outside the box and bring creativity into my programming journey.
 
 ---
